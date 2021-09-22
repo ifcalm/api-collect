@@ -8,4 +8,5 @@ beian.miit.gov.cn
 ### api 市场
 
 - https://api.chinaz.com/
+- https://www.free-api.com/
 - 
